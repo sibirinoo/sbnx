@@ -2,7 +2,7 @@
 
 O pacote **SBNX** oferece um conjunto completo de ferramentas para desenvolvedores e entusiastas de homebrew do Nintendo Switch. Com este pacote, você pode desbloquear funcionalidades adicionais e explorar todo o potencial do seu console de maneira segura e eficiente.
 
-## ► **CLIQUE AQUI PARA FAZER O DOWNLOAD**(github.com/sibirinoo/sbnx/releases) ◄
+## ► **[CLIQUE AQUI PARA FAZER O DOWNLOAD](github.com/sibirinoo/sbnx/releases)** ◄
 
 ## **⚙ BOOTLOADER:**
 
