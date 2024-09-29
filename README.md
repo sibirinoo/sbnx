@@ -2,6 +2,8 @@
 
 O pacote **SBNX** oferece um conjunto completo de ferramentas para desenvolvedores e entusiastas de homebrew do Nintendo Switch. Com este pacote, você pode desbloquear funcionalidades adicionais e explorar todo o potencial do seu console de maneira segura e eficiente.
 
+## ► **CLIQUE AQUI PARA FAZER O DOWNLOAD**(github.com/sibirinoo/sbnx/releases) ◄
+
 ## **⚙ BOOTLOADER:**
 
 - [Hekate](https://github.com/CTCaer/hekate/releases): **Hekate** é um bootloader para a Nintendo Switch, atuando como uma ferramenta multifuncional para qualquer Switch hackeável. Ele inicializa o sistema e oferece aos usuários várias opções antes de executar o software do sistema. Uma das principais vantagens do Hekate é sua interface gráfica (GUI), que facilita a navegação e compreensão, mesmo para usuários iniciantes.
